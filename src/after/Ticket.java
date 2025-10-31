@@ -22,6 +22,6 @@ public abstract class Ticket {
     public double calculateTotalPrice() {
         return price + (price * TAX_RATE);
     }
-
+//sopi
     public abstract void displayInfo();
 }
